@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: foo
+  labels:
+    environment-id: env_cd8a67b3-b24c-4e2f-b92d-b3b963d845af
+    project-id: project_3dd1fcff-9685-49e9-b5c7-857afb6db365
+    project-name: Port506
+    environment-name: dev
+    organization-id: org_01b50229-db34-43d4-8f3e-d1aeb683d900
